@@ -23,7 +23,8 @@
 			"@config/*": ["./src/config/*"],
 			"@models/*": ["./src/models/*"],
 			"@services/*": ["./src/services/*"],
-			"@constants/*": ["./src/constants/*"]
+			"@constants/*": ["./src/constants/*"],
+			"@api/*": ["./src/api/*"]
 			// "@/*": ["./src/*"]
 		}
 	},

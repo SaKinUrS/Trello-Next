@@ -1,6 +1,6 @@
 
-import { axiosClassic } from '@/api/interceptors';
-import { IAuthForm, IAuthResponse } from '@/models/auth.models';
+import { axiosClassic } from '@api/interceptors';
+import { IAuthForm, IAuthResponse } from '@models/auth.models';
 import { removeFromStorage, saveTokenStorage } from './authToken.service';
 
 
